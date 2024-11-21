@@ -1,3 +1,1 @@
-python
-mysql
-mongo
+python:3.13t
