@@ -1,1 +1,1 @@
-ubuntu:lastest
+ubuntu
