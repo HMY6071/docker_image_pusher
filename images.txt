@@ -1,1 +1,1 @@
-OGCServer
+geoserver
