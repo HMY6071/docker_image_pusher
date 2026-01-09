@@ -1,1 +1,1 @@
-certbot/certbot
+library/python:3.10.17
